@@ -1,0 +1,6 @@
+Year,Nuclear,Coal,Gas_Total,Transmission,Distribution_Upgrades,PPA_Wind,PPA_Solar,PPA_Customer_Rooftop_PV,PPA_Storage,PPA_Geothermal,RE_CT_Capital,RE_CT_Fuel_OM,H2_CT_Fuel_Cells_Capital,H2_CT_Fuel_Cells_OM
+2025,1.88,0.33,0.07,1.14,1.7,0.27,0.26,0.85,0,0,0.15,0.02
+2030,2.38,1.23,0.18,3.54,4.94,1.28,0.88,3.68,0,0,0.78,0.11
+2035,2.57,2.35,0.29,6.88,8.69,2.83,1.82,7.49,0,0,4.56,0.7
+2040,2.71,3.48,0.44,11,12.59,4.8,3.08,11.33,0,0,10.28,1.62
+2045,2.83,4.31,0.83,16.08,16.6,6.95,4.3,15.17,0.05,0.01,16.54,2.71
